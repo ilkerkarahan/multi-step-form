@@ -21,7 +21,7 @@ This is a solution to the [Multi step form solutionchallenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qrcode-component-html-and-css-flexbox-hekpgn02C8)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/multi-step-form-solution-7yuEer-vUz)
 
 ### Built with
 
